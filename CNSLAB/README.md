@@ -1,3 +1,25 @@
+# Record and Observation Completion
+
+- [ ] E01
+- [ ] E02
+- [ ] E03
+- [ ] E04
+- [ ] E05
+- [ ] E06
+- [ ] E07
+- [ ] E08
+- [ ] E09
+- [ ] E10
+
+
+
+
+
+
+
+# Syllabus
+
+
 # LIST OF EXPERIMENTS:
 
 ###  1. Working with Sniffers for monitoring network communication using
@@ -34,15 +56,5 @@
 ### 1) https://www.udemy.com/courses/it-and-software/network-and-security/
 ### 2) https://online.stanford.edu/course/network-security
 
-- [ ] E01
-- [ ] E02
-- [ ] E03
-- [ ] E04
-- [ ] E05
-- [ ] E06
-- [ ] E07
-- [ ] E08
-- [ ] E09
-- [ ] E10
 
 
