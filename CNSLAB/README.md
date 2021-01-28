@@ -1,12 +1,12 @@
 # Record and Observation Completion
 
 - [ ] E01
-- [ ] E02
+- [x] E02
 - [ ] E03
 - [ ] E04
 - [ ] E05
 - [ ] E06
-- [ ] E07
+- [x] E07
 - [x] E08
 - [ ] E09
 - [ ] E10
