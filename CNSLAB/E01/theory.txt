@@ -1,0 +1,17 @@
+1.1. What is Wireshark?
+Wireshark is a network packet analyzer. A network packet analyzer presents captured packet data in as much detail as possible.
+
+You could think of a network packet analyzer as a measuring device for examining what’s happening inside a network cable, just like an electrician uses a voltmeter for examining what’s happening inside an electric cable (but at a higher level, of course).
+
+In the past, such tools were either very expensive, proprietary, or both. However, with the advent of Wireshark, that has changed. Wireshark is available for free, is open source, and is one of the best packet analyzers available today.
+
+1.1.1. Some intended purposes
+Here are some reasons people use Wireshark:
+
+Network administrators use it to troubleshoot network problems
+Network security engineers use it to examine security problems
+QA engineers use it to verify network applications
+Developers use it to debug protocol implementations
+People use it to learn network protocol internals
+Wireshark can also be helpful in many other situations.
+
